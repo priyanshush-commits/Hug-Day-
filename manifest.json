@@ -1,0 +1,35 @@
+{
+  "name": "Ultra Romantic Hug Day",
+  "short_name": "Hug Day",
+  "description": "A virtual hug that feels like the real thing - Romantic Hug Day experience with promises, love letter, and 3D teddy bear hugs",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFB6C1",
+  "theme_color": "#FF69B4",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "categories": ["lifestyle", "entertainment", "romance"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/mobile.png",
+      "sizes": "375x667",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Hug Day Mobile View"
+    }
+  ]
+}
